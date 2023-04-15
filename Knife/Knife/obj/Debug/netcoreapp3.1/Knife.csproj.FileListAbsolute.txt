@@ -1,0 +1,14 @@
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.exe
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.deps.json
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.runtimeconfig.json
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.runtimeconfig.dev.json
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.dll
+C:\SEN\Coding\Github_practices\Knife\Knife\bin\Debug\netcoreapp3.1\Knife.pdb
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.csproj.AssemblyReference.cache
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.AssemblyInfoInputs.cache
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.AssemblyInfo.cs
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.csproj.CoreCompileInputs.cache
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.dll
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.pdb
+C:\SEN\Coding\Github_practices\Knife\Knife\obj\Debug\netcoreapp3.1\Knife.genruntimeconfig.cache
